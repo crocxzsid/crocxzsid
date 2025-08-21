@@ -2,6 +2,10 @@
 
 💻 About Me: Full Stack Engineer with expertise in end-to-end web application development. Enthusiastic about open source, scalable systems, and modern software architecture.
 
+### 🤝 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-username](https://www.linkedin.com/in/sidhant-raj-911a9520a/)/)
+
+
 <!--
 **crocxzsid/crocxzsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
